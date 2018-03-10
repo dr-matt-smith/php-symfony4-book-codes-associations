@@ -6,5 +6,9 @@ Below are links to the project for the ENTITY ASSOCIATIONS part of the book
 - run: `composer install`
 - run: `php bin/console server:run`
 
-1. https://github.com/dr-matt-smith/php-symfony4-book-codes-testing-01-simple
+1. https://github.com/dr-matt-smith/php-symfony4-book-codes-associations-01-many-to-one
+
+1. 
+
+1. https://github.com/dr-matt-smith/php-symfony4-book-codes-associations-03-custom-form
 
