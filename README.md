@@ -10,7 +10,8 @@ Below are links to the project for the ENTITY ASSOCIATIONS part of the book
 
 1. https://github.com/dr-matt-smith/php-symfony4-book-codes-associations-02-many-to-one-views
 
-
-
 1. https://github.com/dr-matt-smith/php-symfony4-book-codes-associations-03-custom-form
+
+1. https://github.com/dr-matt-smith/php-symfony4-book-codes-associations-04-associated-fixtures
+
 
